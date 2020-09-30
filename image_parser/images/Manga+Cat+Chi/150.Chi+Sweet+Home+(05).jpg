@@ -1,0 +1,789 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="iso-8859-1"?><html>
+<head>
+
+
+<meta name="viewport" content="initial-scale=0.8">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Cat</title>
+<meta name="description" content="Gatto NineNineNine" />
+<meta name="keywords" content="Gatto, 999, NineNineNine, film, music, adventure, guide, cosplay, fun, howto" />
+<meta name="Generator" content="Joomla! - Copyright (C) Open Source Matters" />
+<meta name="robots" content="index, follow" />
+	<link rel="shortcut icon" href="http://www.gatto999.it/images/favicon.ico" />
+	
+
+<link href="http://www.gatto999.it/templates/red_evolution_chameleon/css/template_css.css" rel="stylesheet" type="text/css"/>
+
+
+<!-- Start of Stylesheet Section-->
+<link href="http://www.gatto999.it/templates/red_evolution_chameleon/css/green.css" rel="stylesheet" type="text/css" title="green"/>
+<!-- End of Stylesheet Section -->
+
+
+<!-- script type="text/javascript" src="http://www.gatto999.it/templates/red_evolution_chameleon/styleswitcher.js"></script -->
+
+<!-- Inserisci questo tag nell'intestazione <head> o appena prima del tag di chiusura </body> -->
+<!-- script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script -->
+
+
+<!-- Google annuncio pagina intera per cellulari -------------------------------------------------------- -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2937917566868337",
+    enable_page_level_ads: true
+  });
+</script>
+<!-- fine annuncio Google pagina intera ------------------------------------------------------------------ -->
+
+
+</head>
+
+<body>
+
+<div align="left">
+<div id="top">
+
+<div id="access">
+<!-- Eliminato resizer trasformando le prossime righe in note con il codice minore esclamativo linetta linetta -->
+<div id="resizer">
+<!--<a href="#" title="Increase size" class="button" onclick="changeFontSize(1);return false;">A +</a> <a href="#" title="Decrease size" class="button" onclick="changeFontSize(-1);return false;">A -</a>-->
+<!--<a href="#" title="Revert styles to default" class="button" onclick="revertStyles(); return false;">
+Reset</a>-->
+
+<!-- inserito nome Gatto999.it e menù in altro nella barra scura -->
+<a href="http://www.Gatto999.it" title="HOME" class="button" onclick="revertStyles(); return false;"> 
+HOME</a>
+<a href="http://www.gatto999.it/index.php?option=com_content&task=blogsection&id=0&Itemid=104" title="Blog Cattitude" class="button" onclick="revertStyles(); return false;"> 
+BLOG Cattitude</a>
+<a href="http://www.gatto999.it/index.php?option=com_content&task=view&id=2630&Itemid=78" title="Cookie Policy" class="button" onclick="revertStyles(); return false;"> 
+Browsing in Gatto999.it you accept her Cookie Policy</a>
+</div>
+
+
+<div id="colorswitcher">
+<!-- Eliminati i bottoni colori trasformando le prossime riche in note con il codice minore esclamatico linetta linetta -->
+<!-- <a href="#" class="button" id="green" title="Change color theme to green" onclick="setActiveStyleSheet('green'); return false;">Green</a>-->
+<!-- <a href="#" class="button" id="blue" title="Change color theme to blue" onclick="setActiveStyleSheet('blue'); return false;">Blue</a>-->
+<!-- <a href="#" class="button" id="purple" title="Change color theme to purple" onclick="setActiveStyleSheet('purple'); return false;">Purple</a>-->
+<!-- <a href="#" class="button" id="yellow" title="Change color theme to yellow" onclick="setActiveStyleSheet('yellow'); return false;">Yellow</a>-->
+<!-- <a href="#" class="button" id="red" title="Change color theme to red" onclick="setActiveStyleSheet('red'); return false;">Red</a>-->
+<!-- <a href="#" class="button" id="greybutton" title="Change color theme to grey" onclick="setActiveStyleSheet('grey'); return false;">Grey</a>-->
+</div>
+
+</div><!--end of access-->
+</div><!--end of top-->
+<div id="wrapper">
+    
+	<div id="header">
+		   <div id="logo"></div>
+		<div id="slogan"></div>
+	</div><!-- end of header -->
+	
+	<div id="topmenu"><div id="menuwrapper"><ul id="mainlevel-nav"><li><a href="http://www.gatto999.it/index.php" class="mainlevel-nav" >Home</a></li><li><a href="http://www.gatto999.it/index.php?option=com_content&amp;task=blogsection&amp;id=0&amp;Itemid=104" class="mainlevel-nav" >BLOG Cattitude</a></li></ul><link href="http://www.gatto999.it/modules/mod_jflanguageselection.css" rel="stylesheet" type="text/css"/>
+	<td ID="jflanguageselection"><ab><a href="http://www.gatto999.it/index.php?lang=it"><img src="http://www.gatto999.it/components/com_joomfish/images/flags/it.gif" alt="Italian" /></a></ab><ab><a href="http://www.gatto999.it/index.php?lang=en"><img src="http://www.gatto999.it/components/com_joomfish/images/flags/en.gif" alt="English" /></a></ab><ab><a href="http://www.gatto999.it/index.php?lang=sp"><img src="http://www.gatto999.it/components/com_joomfish/images/flags/sp.gif" alt="Spanish" /></a></ab><ab><a href="http://www.gatto999.it/index.php?lang=fr"><img src="http://www.gatto999.it/components/com_joomfish/images/flags/fr.gif" alt="Français" /></a></ab></td><!--Joom!fish V1.7 (2006-05-01)-->
+<!-- &copy; 2003-2006 Think Network, released under the LGPL. -->
+<!-- More information: at http://forge.joomla.org/sf/sfmain/do/viewProject/projects.joomfish -->
+</div></div>
+	
+	<div id="container">
+		<div id="mainmenu"></div>
+		
+			
+	<!-- Begin : set the width for div of middlecontainer -->
+	<!-- End : set the width for div of middlecontainer -->
+			<div id="middlecontainer" style="width: 75%">
+						<div id="random"><div align="left"> <div align="left"> <table border="0"> <tbody><tr><td>  <a href="https://www.youtube.com/channel/UCDDpKBPBnZMo3QPw6w8zZew" target="_blank" title="YouTube Channel Trailers News 2.0"><img src="images/Gatto%20NineNineNine%20on%20Youtube.png" alt="YouTube Channel Trailers News 2.0" title="YouTube Channel Trailers News 2.0" width="22" height="22" /></a>  <a href="http://instagram.com/gatto999/" target="_blank" title="Gatto NineNineNine&#39;s Instagram"><img src="images/Gatto%20NineNineNine%20on%20Instagram.png" alt="Gatto NineNineNine on Instagram" title="Gatto NineNineNine on Instagram" width="22" height="22" /></a>  <a href="https://twitter.com/Gatto999" target="_blank" title="Gatto NineNineNine on Twitter"><img src="images/Gatto%20NineNineNine%20on%20Twitter.png" alt="Gatto NineNineNine on Twitter" title="Gatto NineNineNine on Twitter" width="22" height="22" /></a>  <a href="https://giphy.com/channel/gatto999" target="_blank" title="Gatto NineNineNine on Giphy"><img src="images/Gatto%20NineNineNine%20on%20Giphy.png" alt="Gatto NineNineNine on Giphy" title="Gatto NineNineNine on Giphy" width="22" height="22" /></a>  <a href="http://feeds2.feedburner.com/Gatto999RSS" target="_blank" title="Gatto NineNineNine RSS"><img src="images/Gatto%20NineNineNine%20RSS.png" alt="Gatto NineNineNine RSS" title="Gatto NineNineNine RSS" width="22" height="22" /></a>   </td></tr></tbody> </table> </div><h3> </h3></div>	<p align="center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:1000px;height:150px"
+     data-ad-client="ca-pub-2937917566868337"
+     data-ad-slot="4007314696"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</p></div>
+						<div id="maincontainer">
+				<div id="pathway"><span class="pathway">Home </span></div>
+				<div id="mainbody"><table class="blog" cellpadding="0" cellspacing="0"><tr><td valign="top"><div>				<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=2750&amp;Itemid=1" class="contentpagetitle">
+						Gatto 999: "Benvenuto/a !..."</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td>
+						<span>
+				<a href="http://www.gatto999.it/index.php?option=com_content&task=category&sectionid=4&id=19&amp;Itemid=56">racconti</a>			</span>
+							</td>
+			</tr>
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 di Gatto NineNineNine					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<h4 style="color: #ff9900; font-size: 14px" align="center">&nbsp; Benvenuto o Benvenuta&nbsp;nel mio sito internet ... </h4><p style="margin: 0cm 0cm 0pt" class="MsoNormal" align="center"><a href="www.Gatto999.it" title="Gatto 999 - Sito personale di una piccola scrittrice soprannominata Gatto e nata nel 1999 ... gatto gattino che bel micino ... gatto gattone che miagolone ... gatto gatto evviva ecco un gatto ... gatto gatto quatto quatto ... gatto gatto pieno di affetto ... gatto gatto va di soqquatto ... gatto gatto evviva un gatto ... "><img src="images/stories/Coccolose/Dancing%20Cat.gif" alt="Dancing Cat" title="Dancing Cat" width="40" height="32" /></a></p><p style="margin: 0cm 0cm 0pt" class="MsoNormal" align="center"><span style="color: #000000; font-family: Arial,Helvetica,sans-serif; font-size: 12.0141px; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none">Benvenuto/a nel mio laboratorio di Scrittura dove Gioco e mi Diverto. Troverai Curiosit&agrave;, Notizie, Ricette, Istruzioni per Costruire e Creare, Appunti per Organizzare epici Viaggi, Recensioni di Film, Musica, Libri e tanto altro ancora ... </span></p><h3 style="margin: 0cm 0cm 0pt; font-size: 24px" class="MsoNormal" align="center"><img src="images/stories/Animali/Baffo%20di%20Gatto%20dx.PNG" alt="Baffo di Gatto destro - Cat whisker" title="Baffo di Gatto destro - Cat whisker" width="20" height="12" /> <a href="index.php?option=com_content&amp;task=blogsection&amp;id=0&amp;Itemid=104" title="Cat&#39;s Blog">BLOG di Gatto NineNineNine</a> <a href="index.php?option=com_content&amp;task=blogsection&amp;id=0&amp;Itemid=9" title="BLOG"><img src="images/stories/Animali/Baffo%20di%20Gatto%20sx.PNG" alt="Baffo di Gatto sinistro - Cat whisker" title="Baffo di Gatto sinistro - Cat whisker" width="20" height="12" /></a></h3><hr /><p align="center"><div align='center'><script language="javascript"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2937917566868337"
+     data-ad-slot="2995693344"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></p>			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</div><div>			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=2652&amp;Itemid=1" class="contentpagetitle">
+						Le 20 migliori commedie romantiche da guardare in famiglia ... forse ho esagerato e son più di 100</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td>
+						<span>
+				<a href="http://www.gatto999.it/index.php?option=com_content&task=category&sectionid=10&id=29&amp;Itemid=422">Film preferiti</a>			</span>
+							</td>
+			</tr>
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 di Gatto NineNineNine					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<div align="center">&nbsp;<a href="index.php?option=com_content&amp;task=view&amp;id=2652&amp;Itemid=102" title="Le 20 migliori commedie romantiche da guardare in famiglia ...  "><img src="images/stories/Movie/Cuore%20Heart%20Love%20Lovely%204.jpg" alt="Le 20 migliori commedie romantiche da guardare in famiglia ...  " title="Le 20 migliori commedie romantiche da guardare in famiglia ...  " width="100" height="100" /></a> &nbsp; <a href="index.php?option=com_content&amp;task=view&amp;id=2652&amp;Itemid=102" title="Le 20 migliori commedie romantiche da guardare in famiglia ...  "><img src="images/stories/Movie/Cuore%20Heart%20Love%20Lovely%203.jpg" alt="Le 20 migliori commedie romantiche da guardare in famiglia ...  " title="Le 20 migliori commedie romantiche da guardare in famiglia ...  " width="115" height="100" /></a> &nbsp;&nbsp; <a href="index.php?option=com_content&amp;task=view&amp;id=2652&amp;Itemid=102" title="Le 20 migliori commedie romantiche da guardare in famiglia ...  "><img src="images/stories/Movie/Cuore%20Heart%20Love%20Lovely%204.jpg" alt="Le 20 migliori commedie romantiche da guardare in famiglia ...  " title="Le 20 migliori commedie romantiche da guardare in famiglia ...  " width="100" height="100" /></a></div><div align="center">Le 20 migliori commedie romantiche, film divertenti da guardare in famiglia o con gli amici in serate speciali ... forse ho esagerato e son pi&ugrave; di 100 ... personalmente selezionate ed ordinate =^.^= </div><div align="center">&nbsp;</div><div align="center">&nbsp;<a href="index.php?option=com_content&amp;task=view&amp;id=2652&amp;Itemid=102" title="Le 20 migliori commedie romantiche da guardare in famiglia ...  "><img src="images/stories/Movie/Cuori%20Hearts%20Love%20Lovely%201.jpg" alt="Le 20 migliori commedie romantiche da guardare in famiglia ...  " title="Le 20 migliori commedie romantiche da guardare in famiglia ...  davanti alla televisione" width="200" height="37" /></a> </div>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=2652&amp;Itemid=1" class="readon">
+							Leggi tutto...</a>
+					</td>
+				</tr>
+						</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</div><div>			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=2294&amp;Itemid=1" class="contentpagetitle">
+						Ebook gratis con le mie piccole Favole per bambini</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td>
+						<span>
+				<a href="http://www.gatto999.it/index.php?option=com_content&task=category&sectionid=4&id=19&amp;Itemid=56">racconti</a>			</span>
+							</td>
+			</tr>
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 di Gatto NineNineNine					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<div align="center"><h3>&nbsp;&nbsp; <a href="index.php?option=com_content&amp;task=view&amp;id=2294&amp;Itemid=102" title="Ebook gratis da scaricare scritto da Gatto NineNineNine (Gatto999) intitolato Raccolta di Fiabe per Bambini da 3 a 10 anni ... tutto da leggere !..."><img src="images/stories/Books/Raccolta%20gratis%20di%20Favole%20e%20Fiabe%20per%20Bambini%20scritte%20da%20Gatto%20NineNineNine%20mini.JPG" border="1" alt="Ebook gratis da scaricare scritto da Gatto NineNineNine (Gatto999) intitolato Raccolta di Fiabe per Bambini da 3 a 10 anni ... tutto da leggere !..." title="Ebook gratis da scaricare scritto da Gatto NineNineNine (Gatto999) intitolato Raccolta di Fiabe per Bambini da 3 a 10 anni ... tutto da leggere !..." width="140" height="170" /></a> &nbsp; <br /></h3><h3>Ho creato una piccola raccolta con alcune delle mie Favole per bambini, ho confezionato un ebook e mi fa piacere condividerlo con chi lo apprezza ...</h3></div>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=2294&amp;Itemid=1" class="readon">
+							Leggi tutto...</a>
+					</td>
+				</tr>
+						</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</div><div>			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=2882&amp;Itemid=1" class="contentpagetitle">
+						Istruzioni per costruire Gadget per Cosplay (howto, tutorial & instructions) - come fare per ...</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td>
+						<span>
+				<a href="http://www.gatto999.it/index.php?option=com_content&task=category&sectionid=6&id=15&amp;Itemid=58">divertimento</a>			</span>
+							</td>
+			</tr>
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 di Gatto NineNineNine					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<div align="center"><h3 style="margin: 0px; padding: 0px; color: #000000; font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px" align="center"><span style="font-weight: bold; color: #8cc721; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px">&nbsp;<a href="index.php?option=com_content&amp;task=view&amp;id=2882&amp;Itemid=102" title="Istruzioni per costruire Gadget per Cosplay (howto for Cosplay) - come fare per ..."><img style="border: 0px none" src="images/stories/Miniature/Come%20costruire%20la%20Spada%20Minecraft%20per%20cosplay%20-%20howto%20create%20minecraft%20sword%20instructions%20-%20manual%20-05-.jpg" alt="come costruire la Spada Minecraft per cosplay - howto create minecraft sword instructions - manual" title="come costruire la Spada Minecraft per cosplay - howto create minecraft sword instructions - manual" width="100" height="100" /></a>  </span><span style="font-weight: bold; color: #8cc721"><a href="index.php?option=com_content&amp;task=view&amp;id=2882&amp;Itemid=102" title="Istruzioni per costruire Gadget per Cosplay (howto for Cosplay) - come fare per ..."><img style="border: 0px none" src="images/stories/Miniature/Jake%20il%20cane%20magico%20di%20Adventure%20Time%20-01-.jpg" alt="Come Costruire un Pupazzo del cane magico Jake di Adventure Time ..." title="Come Costruire un Pupazzo del cane magico Jake di Adventure Time ..." width="100" height="100" /></a>  </span><span style="font-weight: bold; color: #8cc721; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px"><a href="index.php?option=com_content&amp;task=view&amp;id=2882&amp;Itemid=102" title="Istruzioni per costruire Gadget per Cosplay (howto for Cosplay) - come fare per ..."><img style="border: 0px none" src="images/stories/Miniature/Hotarubi%20no%20mori%20-%20anime%20mask%20howto%20-%20ghost%20girl%20-%20spirito%20foresta%20fantasma%20ragazza%20-%20cosplay%20-06-.jpg" alt="Istruzioni per costruire in casa la maschera di Gin (Mask of Hotarubi no mori e) - howto create a mask of Gin of the anime Hotarubi no mori e for cosplay" title="Istruzioni per costruire in casa la maschera di Gin (Mask of Hotarubi no mori e) - howto create a mask of Gin of the anime Hotarubi no mori e for cosplay" width="100" height="100" /></a>  <br /></span></h3></div><div align="center">A noi piace tantissimo fare cosplay (ovvero vestirci da cartoni animati) ma non solamente per quella sensazione di trasformazione in supereroe bens&igrave; perch&eacute; &egrave; molto, molto divertente costruire i propri costumi, creare le armi dei nostri personaggi preferiti, ideare e assemblare i vari gadget che li contraddistinguono. In questo nostro post vogliamo farti vedere i nostri piccoli, grandi, progetti ... </div><div align="center"><h3 style="margin: 0px; padding: 0px; color: #000000; font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px" align="center"><span style="font-weight: bold; color: #8cc721; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px">&nbsp;</span><span style="font-weight: bold; color: #8cc721; font-family: Arial, Helvetica, sans-serif; font-size: 12.0141px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px"><a href="index.php?option=com_content&amp;task=view&amp;id=2882&amp;Itemid=102" title="Istruzioni per costruire Gadget per Cosplay (howto for Cosplay) - come fare per ..."><img style="border: 0px none" src="images/stories/Miniature/Alice%20McGee%20cosplay%20Madness%20Return%20-01-.jpg" alt="Abito vestito per cosplay Alice McGee Madness Return come fare - howto by Gatto NineNineNine " title="Abito vestito per cosplay Alice McGee Madness Return come fare - howto by Gatto NineNineNine " width="100" height="100" /></a>  <a href="index.php?option=com_content&amp;task=view&amp;id=2882&amp;Itemid=102" title="Istruzioni per costruire Gadget per Cosplay (howto for Cosplay) - come fare per ..."><img style="border: 0px none" src="images/stories/Miniature/Come%20costruire%20coltello%20Assassination%20Classrom%20SAAUSO%20howto%20create%20knife%20Koro%20Sensei%20cosplay%20%288%29.jpg" alt="Come costruire pugnale coltello Assassination Classroom SAAUSO howto create knife dagger Koro Sensei cosplay" title="Come costruire pugnale coltello Assassination Classroom SAAUSO howto create knife dagger Koro Sensei cosplay" width="100" height="100" /></a>  <a href="index.php?option=com_content&amp;task=view&amp;id=2882&amp;Itemid=102" title="Istruzioni per costruire Gadget per Cosplay (howto for Cosplay) - come fare per ..."><img style="border: 0px none" src="images/stories/Miniature/Cosplay%20-%20Falce%20Maka%20di%20Soul%20Eater%20-02-.jpg" alt="Cosplay - Falce di Maka dell&#39;Anime Soul Eater ... " title="Cosplay - Falce di Maka dell&#39;Anime Soul Eater ... " width="100" height="100" /></a>  </span><span style="font-weight: bold; color: #8cc721"><a href="index.php?option=com_content&amp;task=view&amp;id=2882&amp;Itemid=102" title="Istruzioni per costruire Gadget per Cosplay (howto for Cosplay) - come fare per ..."><img style="border: 0px none" src="images/stories/Miniature/Cosplay%20come%20fare%20maschera%20Hollow%20Ichigo%20Bleach%20howto%20homemade%20easy%20facile%20-02-.jpg" alt="Come costruire una facile e perfetta maschera da Hollow di Bleach (Bleach cosplay Hollow Mask howto)" title="Come costruire una facile e perfetta maschera da Hollow di Bleach (Bleach cosplay Hollow Mask howto)" width="100" height="100" /></a>  </span><br /></h3></div>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=2882&amp;Itemid=1" class="readon">
+							Leggi tutto...</a>
+					</td>
+				</tr>
+						</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</div><div>			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=3266&amp;Itemid=1" class="contentpagetitle">
+						I migliori film Live Action tratti da Anime Giapponesi</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td>
+						<span>
+				<a href="http://www.gatto999.it/index.php?option=com_content&task=category&sectionid=10&id=29&amp;Itemid=422">Film preferiti</a>			</span>
+							</td>
+			</tr>
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 di Gatto NineNineNine					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<div align="center">&nbsp;<a href="index.php?option=com_content&amp;task=view&amp;id=3266&amp;Itemid=102" title="I migliori film Live Action tratti da Anime Giapponesi  - Best live action anime manga film"><img src="images/stories/CoverFilms/Film%20icon.png" alt="I migliori film Live Action tratti da Anime Giapponesi  - Best live action anime manga film" title="I migliori film Live Action tratti da Anime Giapponesi  - Best live action anime manga film" width="70" height="70" /></a> </div><div align="center"><a href="index.php?option=com_content&amp;task=view&amp;id=3266&amp;Itemid=102" title="I migliori film Live Action tratti da Anime Giapponesi  - Best live action anime manga film"><img src="images/stories/CoverFilms/Film%20live%20action%20-%20icon%20Assassination%20Classroom%20-%20Koro%20Sensei.jpg" alt="I migliori film Live Action tratti da Anime Giapponesi  - Best live action anime manga film" title="I migliori film Live Action tratti da Anime Giapponesi  - Best live action anime manga film" width="150" height="90" /></a> </div><div align="center">I migliori film Live Action tratti da Anime Giapponesi ...grazie alle moderne tecniche cinematografiche riescono a creare degli incredibili film live action tratti dagli anime giapponesi di maggior successo, questi, a parer mio, sono i migliori ... </div><div align="center"><a href="index.php?option=com_content&amp;task=view&amp;id=3266&amp;Itemid=102" title="I migliori film Live Action tratti da Anime Giapponesi  - Best live action anime manga film"><img src="images/stories/CoverFilms/Film%20live%20action%20-%20icon%20Attack%20on%20Titan.png" alt="I migliori film Live Action tratti da Anime Giapponesi  - Best live action anime manga film" title="I migliori film Live Action tratti da Anime Giapponesi  - Best live action anime manga film" width="120" height="120" /></a> &nbsp; <a href="index.php?option=com_content&amp;task=view&amp;id=3266&amp;Itemid=102" title="I migliori film Live Action tratti da Anime Giapponesi  - Best live action anime manga film"><img src="images/stories/CoverFilms/Film%20live%20action%20-%20icon%20Death%20Note.png" alt="I migliori film Live Action tratti da Anime Giapponesi  - Best live action anime manga film" title="I migliori film Live Action tratti da Anime Giapponesi  - Best live action anime manga film" width="120" height="120" /></a>  <a href="index.php?option=com_content&amp;task=view&amp;id=3266&amp;Itemid=102" title="I migliori film Live Action tratti da Anime Giapponesi  - Best live action anime manga film"><img src="images/stories/CoverFilms/Film%20live%20action%20-%20icon%20Parasyte%20Kiseiju.png" alt="I migliori film Live Action tratti da Anime Giapponesi  - Best live action anime manga film" title="I migliori film Live Action tratti da Anime Giapponesi  - Best live action anime manga film" width="120" height="120" /></a> </div>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=3266&amp;Itemid=1" class="readon">
+							Leggi tutto...</a>
+					</td>
+				</tr>
+						</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</div><div>			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=4476&amp;Itemid=1" class="contentpagetitle">
+						Le migliori 20 canzoni indie italiane ... forse ho esagerato e vado verso i 100, sorry</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td>
+						<span>
+				<a href="http://www.gatto999.it/index.php?option=com_content&task=category&sectionid=10&id=43&amp;Itemid=429">Musica preferita</a>			</span>
+							</td>
+			</tr>
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 di Gatto NineNineNine					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<div align="center">&nbsp; <a href="index.php?option=com_content&amp;task=view&amp;id=4476&amp;Itemid=429" title="Le migliori 20 canzoni indie italiane"><img src="images/stories/Music/indie%20musica%20italiana%20-%2002%20-%20migliori%20best%20hits%20list%20special%20giovani%20moderna%20nuova%20consigli%20-%20I%20Love%20INDIE.jpg" alt="Le migliori 20 canzoni indie italiane" title="Le migliori 20 canzoni indie italiane" width="150" height="150" /></a> </div><div align="center"><address>Le migliori 20 <strong>canzoni indie italiane</strong> ... forse ho esagerato e vado verso i 100, sorry ... la musica indie &egrave; un&#39;espressione libera della musica moderna e queste sono le mie<strong> canzoni italiane preferite</strong>, le pi&ugrave; <strong>belle</strong> in assoluto. </address><address><strong>ATTENZIONE</strong>: Ricorda che la musica indi ha una piccola controindicazione, ovvero, se inizi ad ascoltarla non riuscirai pi&ugrave; a dimenticarla.</address><address>=^.^= <br /></address></div>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=4476&amp;Itemid=1" class="readon">
+							Leggi tutto...</a>
+					</td>
+				</tr>
+						</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</div><div>			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=3064&amp;Itemid=1" class="contentpagetitle">
+						I migliori 20 viaggi da organizzare ... ovvero suggerimenti da copiare per indimenticabili avventure</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td>
+						<span>
+				<a href="http://www.gatto999.it/index.php?option=com_content&task=category&sectionid=7&id=25&amp;Itemid=59">avventure</a>			</span>
+							</td>
+			</tr>
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 di Gatto NineNineNine					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<div align="center"><address>&nbsp;<a href="index.php?option=com_content&amp;task=view&amp;id=3064&amp;Itemid=109" title="Migliori 20 viaggi suggerimenti itinerari idee copiare tour organizzare avventure vacanze"><img src="images/stories/Avventura%20Adventure/Migliori%2020%20viaggi%20suggerimenti%20itinerari%20idee%20copiare%20tour%20organizzare%20avventure%20vacanze.jpg" alt="Migliori 20 viaggi suggerimenti itinerari idee copiare tour organizzare avventure vacanze" title="Migliori 20 viaggi suggerimenti itinerari idee copiare tour organizzare avventure vacanze" width="150" height="183" /></a> </address><h3>I migliori 20 viaggi da organizzare, ovvero suggerimenti da copiare per indimenticabili avventure ... come organizzarti, cosa vedere e soprattutto, consigli su dove andare.</h3></div>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=3064&amp;Itemid=1" class="readon">
+							Leggi tutto...</a>
+					</td>
+				</tr>
+						</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</div><div>			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=2653&amp;Itemid=1" class="contentpagetitle">
+						I 20 migliori film di Fantascienza da guardare con gli amici ... forse ho esagerato e son oltre 100</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td>
+						<span>
+				<a href="http://www.gatto999.it/index.php?option=com_content&task=category&sectionid=10&id=29&amp;Itemid=422">Film preferiti</a>			</span>
+							</td>
+			</tr>
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 di Gatto NineNineNine					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<div align="center">&nbsp; <a href="index.php?option=com_content&amp;task=view&amp;id=2653&amp;Itemid=102" title="I 20 migliori film di Fantascienza da guardare con gli amici ...  "><img src="images/stories/Cover%20Film%20preferiti/Fantascienza%20scifi%20icon%20movie%20film%20series%20saga%20sagas%20-02-.jpg" alt="I 20 migliori film di Fantascienza da guardare con gli amici ...  " title="I 20 migliori film di Fantascienza da guardare con gli amici ...  " width="200" height="150" /></a>  <br /></div><div align="center">I 20 migliori film di Fantascienza da guardare con gli amici ... tutti speciali per trascorrere una divertente serata davanti alla televisione con una buona dose di popcorn </div><div align="center">&nbsp;</div><div align="center">&nbsp;<a href="index.php?option=com_content&amp;task=view&amp;id=2653&amp;Itemid=102" title="I 20 migliori film di Fantascienza da guardare con gli amici ...  "><img src="images/stories/Cover%20Film%20preferiti/Fantascienza%20scifi%20icon%20movie%20film%20series%20saga%20sagas%20-10-%20Spiderman.jpg" alt="I 20 migliori film di Fantascienza da guardare con gli amici ...  " title="I 20 migliori film di Fantascienza da guardare con gli amici ...  " width="100" height="100" /></a> <a href="index.php?option=com_content&amp;task=view&amp;id=2653&amp;Itemid=102" title="I 20 migliori film di Fantascienza da guardare con gli amici ...  "><img src="images/stories/Cover%20Film%20preferiti/Fantascienza%20scifi%20icon%20movie%20film%20series%20saga%20sagas%20-16-%20hitchhike%20guide%20to%20galaxy.jpg" alt="I 20 migliori film di Fantascienza da guardare con gli amici ...  " title="I 20 migliori film di Fantascienza da guardare con gli amici ...  " width="100" height="100" /></a>  <a href="index.php?option=com_content&amp;task=view&amp;id=2653&amp;Itemid=102" title="I 20 migliori film di Fantascienza da guardare con gli amici ...  "><img src="images/stories/Cover%20Film%20preferiti/Fantascienza%20scifi%20icon%20movie%20film%20series%20saga%20sagas%20-18-%20C3P3%20Star%20Wars.jpg" alt="I 20 migliori film di Fantascienza da guardare con gli amici ...  " title="I 20 migliori film di Fantascienza da guardare con gli amici ...  " width="100" height="100" /></a>  <a href="index.php?option=com_content&amp;task=view&amp;id=2653&amp;Itemid=102" title="I 20 migliori film di Fantascienza da guardare con gli amici ...  "><img src="images/stories/Cover%20Film%20preferiti/Fantascienza%20scifi%20icon%20movie%20film%20series%20saga%20sagas%20-08-%20Ironman.jpg" alt="I 20 migliori film di Fantascienza da guardare con gli amici ...  " title="I 20 migliori film di Fantascienza da guardare con gli amici ...  " width="100" height="100" /></a> </div><div align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /></div>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=2653&amp;Itemid=1" class="readon">
+							Leggi tutto...</a>
+					</td>
+				</tr>
+						</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</div><div>			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=2726&amp;Itemid=1" class="contentpagetitle">
+						I 20 migliori film Horror da guardare in ... compagnia ... forse ho esagerato e son più di 100</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td>
+						<span>
+				<a href="http://www.gatto999.it/index.php?option=com_content&task=category&sectionid=10&id=29&amp;Itemid=422">Film preferiti</a>			</span>
+							</td>
+			</tr>
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 di Gatto NineNineNine					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<a href="index.php?option=com_content&amp;task=view&amp;id=2726&amp;Itemid=422" title=" Best 20 Horror films - Blood - Sangue I 20 migliori film Horror da guardare in ... compagnia"><img src="images/stories/Movie/Best%2020%20Horror%20films%20-%20Blood%20-%20Sangue%202.jpg" alt="Best 20 Horror films - Blood - Sangue" title="Best 20 Horror films - Blood - Sangue" width="85" height="55" /></a><div align="center"><div align="center"><a href="index.php?option=com_content&amp;task=view&amp;id=2726&amp;Itemid=422" title=" Best 20 Horror film - Blood - Sangue I 20 migliori film Horror da guardare in ... compagnia"><img src="images/stories/Movie/Best%2020%20Horror%20films%20-%20black%20cat%20-%20chat%20noire%20-%20neko%20-%20gatto%20nero.jpg" alt="Best 20 Horror film - black cat - chat noire - neko - gatto nero" title="Best 20 Horror film - black cat - chat noire - neko - gatto nero" width="200" height="150" /></a></div><div align="center"><div align="center">I 20 migliori film Horror da guardare in ... compagnia, magari proprio prima di andare a ninna. Mostri, Demoni, Mad Scientist,  Splatter, Murders ... tutto il meglio per terrorizzarti a dovere ... forse ho esagerato e son pi&ugrave; di 100</div><div align="center"> </div>=^.^=&nbsp; <br /></div>&nbsp;<a href="index.php?option=com_content&amp;task=view&amp;id=2726&amp;Itemid=422" title=" Best 20 Horror film - Blood - Sangue I 20 migliori film Horror da guardare in ... compagnia"><img src="images/stories/Movie/Best%2020%20Horror%20films.png" alt=" Best 20 Horror film - Blood - Sangue I 20 migliori film Horror da guardare in ... compagnia" title=" Best 20 Horror film - Blood - Sangue I 20 migliori film Horror da guardare in ... compagnia" width="200" height="200" /></a> </div>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=2726&amp;Itemid=1" class="readon">
+							Leggi tutto...</a>
+					</td>
+				</tr>
+						</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</div></td></tr><tr><td valign="top"><table width="100%"  cellpadding="0" cellspacing="0"><tr><td valign="top" width="50%">			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=6128&amp;Itemid=1" class="contentpagetitle">
+						News UpComing Movies</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td>
+						<span>
+				<a href="http://www.gatto999.it/index.php?option=com_content&task=category&sectionid=10&id=29&amp;Itemid=422">Film preferiti</a>			</span>
+							</td>
+			</tr>
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 di Gatto NineNineNine					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<div align="center"><address align="left"><a href="index.php?option=com_content&amp;task=view&amp;id=6128&amp;Itemid=422" title="News UpComing Movies ..."><img src="images/stories/Movie/News%20Next%20Upcoming%20Incoming%20Films%20-%20logo%20(7).jpg" alt="News Next Upcoming Incoming Movies" title="News Next Upcoming Incoming Movies" width="200" height="133" /></a> </address></div><div align="center">News UpComing Movies ...<br /></div>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=6128&amp;Itemid=1" class="readon">
+							Leggi tutto...</a>
+					</td>
+				</tr>
+						</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</td><td valign="top" width="50%">			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=5265&amp;Itemid=1" class="contentpagetitle">
+						Anime - I Migliori Anime di sempre</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td>
+						<span>
+				<a href="http://www.gatto999.it/index.php?option=com_content&task=category&sectionid=10&id=31&amp;Itemid=427">Anime e Cartoni animati preferiti</a>			</span>
+							</td>
+			</tr>
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 di Gatto NineNineNine					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<div align="center">&nbsp;<a href="index.php?option=com_content&amp;task=view&amp;id=5265&amp;Itemid=436" title="Ecco qui la lista dei migliori anime di sempre - List of Best Anime ever"><img src="images/stories/Anime%20Manga%20Cartoon/I%20Love%20Anime%20-%20list%20of%20best%2020%20animations.jpg" alt="Ecco qui la lista dei migliori anime di sempre - List of Best Anime ever" title="Ecco qui la lista dei migliori anime di sempre - List of Best Anime ever" width="150" height="143" /></a> </div><div align="center">Ecco qui la lista dei migliori anime - List of Best Anime ever</div>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=5265&amp;Itemid=1" class="readon">
+							Leggi tutto...</a>
+					</td>
+				</tr>
+						</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</td></tr><tr><td valign="top" width="50%">			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=3063&amp;Itemid=1" class="contentpagetitle">
+						Lucca Comics and Games e tutte le nostre avventure cosplay</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td>
+						<span>
+				<a href="http://www.gatto999.it/index.php?option=com_content&task=category&sectionid=7&id=25&amp;Itemid=59">avventure</a>			</span>
+							</td>
+			</tr>
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 di Gatto NineNineNine					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<div align="center"><address><span style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none">&nbsp;<span class="Apple-converted-space"> </span></span><a href="index.php?option=com_content&amp;task=view&amp;id=3063&amp;Itemid=102" title="Lucca Comics and Games e tutte le nostre avventure cosplay "><span style="font-weight: bold; color: #8cc721; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px"><img style="border: 0px none" src="images/stories/Miniature/Romics%202015%20-00-%20inside%20the%20Tardis%20young%20Doctor%20Who%20Peter%20Capaldi.JPG" border="0" alt="Lucca Comics and Games e tutte le nostre avventure cosplay " title="Lucca Comics and Games e tutte le nostre avventure cosplay " width="100" height="100" /></span></a> </address><address> Fare cosplay &egrave; divertente e Lucca, per noi, &egrave; diventato un appuntamento annuale, un po&#39; come una festa nazionale. Ti va di vedere tutte le nostre avventure?...</address></div>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=3063&amp;Itemid=1" class="readon">
+							Leggi tutto...</a>
+					</td>
+				</tr>
+						</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</td><td valign="top" width="50%">			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=13018&amp;Itemid=1" class="contentpagetitle">
+						How to make the Inosuke Mask for Cosplay</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td>
+						<span>
+				<a href="http://www.gatto999.it/index.php?option=com_content&task=category&sectionid=9&id=28&amp;Itemid=60">Mio Fratello</a>			</span>
+							</td>
+			</tr>
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 di Fratellino					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<div align="center">&nbsp;<a href="index.php?option=com_content&amp;task=view&amp;id=13018&amp;Itemid=107" title="How to make the Inosuke Mask for Cosplay "><img src="images/stories/Cosplay/How%20to%20make%20the%20Inosuke%20Cosplay%20Mask%20(3).jpg" alt="How to make the Inosuke Mask for Cosplay " title="How to make the Inosuke Mask for Cosplay " width="150" height="120" /></a> </div><div align="center">&nbsp;How to make the Inosuke Mask for Cosplay...</div><div align="center">&nbsp;<br /></div>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=13018&amp;Itemid=1" class="readon">
+							Leggi tutto...</a>
+					</td>
+				</tr>
+						</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</td></tr><tr><td valign="top" width="50%">			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=13017&amp;Itemid=1" class="contentpagetitle">
+						Howto Create Violet Evergarden's Gloves for cosplay ... easy instructions </a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td>
+						<span>
+				<a href="http://www.gatto999.it/index.php?option=com_content&task=category&sectionid=9&id=28&amp;Itemid=60">Mio Fratello</a>			</span>
+							</td>
+			</tr>
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 di Fratellino					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<div align="center">&nbsp;<a href="index.php?option=com_content&amp;task=view&amp;id=13017&amp;Itemid=107" title="Howto Create Violet Evergarden&#39;s Gloves for cosplay"><img src="images/stories/Cosplay/Violet%20Evergarden%20Gloves%20cosplay%20instructions%20accesory.jpg" alt="Howto Create Violet Evergarden&#39;s Gloves for cosplay" title="Howto Create Violet Evergarden&#39;s Gloves for cosplay" width="200" height="111" /></a> </div><div align="center">Howto Create Violet Evergarden&#39;s Gloves for cosplay</div>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=13017&amp;Itemid=1" class="readon">
+							Leggi tutto...</a>
+					</td>
+				</tr>
+						</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</td><td valign="top" width="50%">			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=9544&amp;Itemid=1" class="contentpagetitle">
+						Howto Create a Goblin Slayer Cosplay Costume armour</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td>
+						<span>
+				<a href="http://www.gatto999.it/index.php?option=com_content&task=category&sectionid=9&id=28&amp;Itemid=60">Mio Fratello</a>			</span>
+							</td>
+			</tr>
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 di Fratellino					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<div align="center">&nbsp;<a href="index.php?option=com_content&amp;task=view&amp;id=9544&amp;Itemid=107" title="Howto Create a Goblin Slayer Cosplay Costume armour"><img src="images/stories/Cosplay/Cosplay%20Goblin%20Slayer%20p%20(1).jpg" alt="Howto Create a Goblin Slayer Cosplay Costume armour" title="Howto Create a Goblin Slayer Cosplay Costume armour" width="200" height="112" /></a> </div><div align="center">Howto Create a Goblin Slayer Cosplay Costume armour ... instruction, video tutoria, pattern and a lot of cosplay fun<br /></div><div align="center">&nbsp;<a href="index.php?option=com_content&amp;task=view&amp;id=9544&amp;Itemid=107" title="Howto Create a Goblin Slayer Cosplay Costume armour"><img src="images/stories/Cosplay/Cosplay%20Goblin%20Slayer%20p%20(2).jpg" alt="Howto Create a Goblin Slayer Cosplay Costume armour" title="Howto Create a Goblin Slayer Cosplay Costume armour" width="200" height="112" /></a> </div>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=9544&amp;Itemid=1" class="readon">
+							Leggi tutto...</a>
+					</td>
+				</tr>
+						</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</td></tr></table></td></tr><tr><td valign="top" align="center"><span class="pagenav">&lt;&lt;&nbsp;Inizio</span> <span class="pagenav">&lt;&nbsp;Prec.</span> <span class="pagenav">1</span> <a href="http://www.gatto999.it/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=15&amp;limitstart=15" class="pagenav"><strong>2</strong></a> <a href="http://www.gatto999.it/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=15&amp;limitstart=30" class="pagenav"><strong>3</strong></a> <a href="http://www.gatto999.it/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=15&amp;limitstart=45" class="pagenav"><strong>4</strong></a> <a href="http://www.gatto999.it/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=15&amp;limitstart=60" class="pagenav"><strong>5</strong></a> <a href="http://www.gatto999.it/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=15&amp;limitstart=75" class="pagenav"><strong>6</strong></a> <a href="http://www.gatto999.it/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=15&amp;limitstart=90" class="pagenav"><strong>7</strong></a> <a href="http://www.gatto999.it/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=15&amp;limitstart=105" class="pagenav"><strong>8</strong></a> <a href="http://www.gatto999.it/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=15&amp;limitstart=120" class="pagenav"><strong>9</strong></a> <a href="http://www.gatto999.it/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=15&amp;limitstart=135" class="pagenav"><strong>10</strong></a> <a href="http://www.gatto999.it/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=15&amp;limitstart=15" class="pagenav" title="Pross.">Pross.&nbsp;&gt;</a> <a href="http://www.gatto999.it/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=15&amp;limitstart=1425" class="pagenav" title="Fine">Fine&nbsp;&gt;&gt;</a><br /><br /></td></tr><tr><td valign="top" align="center">Risultati 1 - 15 di 1426</td></tr></table></div>
+			
+
+                                <!-- -------------- inserito ads Google a fine pagina ------------------ -->
+<!-- 				<div align="center">
+<!-- 				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
+<!-- 				<!-- MOS banner 728x90 -->                                                             -->
+<!-- 				<ins class="adsbygoogle"                                                               -->
+<!-- 				     style="display:inline-block;width:728px;height:90px"                              -->
+<!-- 				     data-ad-client="ca-pub-2937917566868337"                                          -->
+<!-- 				     data-ad-slot="5706666913"></ins>                                                  -->
+<!-- 				<script>                                                                               -->
+<!-- 				(adsbygoogle = window.adsbygoogle || []).push({});                                     -->
+<!--   				</script>                                                                              -->
+<!-- 				</div>                                                                                 -->
+
+                                </div><!--end of maincontainer -->
+		</div><!--end of middlecontainer -->
+				<div id="rightcontainer">		<div class="moduletable">
+			<address>&nbsp;&nbsp; </address><address>&nbsp; &nbsp;</address><address>&nbsp; &nbsp;</address><address>&nbsp;</address><address>&nbsp; &nbsp;&nbsp;</address><address>&nbsp; &nbsp; &nbsp; </address><address>&nbsp; &nbsp; &nbsp;&nbsp; <br /></address><address>&nbsp;&nbsp; <br /></address><address>&nbsp; &nbsp;</address><address>&nbsp; &nbsp;</address><address>&nbsp;&nbsp; </address><address>&nbsp; &nbsp;&nbsp;</address><address>&nbsp; &nbsp;&nbsp;</address><address>&nbsp; &nbsp;&nbsp; <br /></address>		</div>
+				<div class="moduletable">
+			
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="http://www.gatto999.it/index.php?option=com_content&amp;task=blogsection&amp;id=0&amp;Itemid=104" class="mainlevel" >Blog Cattitude</a></td></tr>
+</table>		</div>
+				<div class="moduletable">
+			
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=5759&amp;Itemid=461" class="mainlevel" >Best Cattitude</a></td></tr>
+<tr align="left"><td><a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=6128&amp;Itemid=462" class="mainlevel" >Upcoming Movies</a></td></tr>
+<tr align="left"><td><a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=2652&amp;Itemid=446" class="mainlevel" >Migliori Love Comedy</a></td></tr>
+<tr align="left"><td><a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=2653&amp;Itemid=448" class="mainlevel" >Migliore Fantascienza</a></td></tr>
+<tr align="left"><td><a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=3266&amp;Itemid=452" class="mainlevel" >Migliori Live Action</a></td></tr>
+<tr align="left"><td><a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=2656&amp;Itemid=453" class="mainlevel" >Maratone Film</a></td></tr>
+<tr align="left"><td><a href="http://www.gatto999.it/index.php?option=com_content&amp;task=view&amp;id=4476&amp;Itemid=457" class="mainlevel" >Musica Indie</a></td></tr>
+</table>		</div>
+				<div class="moduletable">
+			<p align="center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Gatto999 - annuncio 120x1200 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:120px;height:1200px"
+     data-ad-client="ca-pub-2937917566868337"
+     data-ad-slot="8769342679"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</p>		</div>
+		</div>
+			</div><!--end of container -->
+
+	<div id="bottom">
+		<div id="bottomcontainer">
+			<div id="user2">		<div class="moduletable">
+			<div align="center"><address>&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ilmiolibro.kataweb.it/schedalibro.asp?id=795450" target="_blank" title="Il primo libro di Gatto999 - La Perdita di Teddy"><img src="images/stories/Divertimento/Perdita%20Teddy%20-%20Gatto999%202012.jpg" alt="Primo Libro di Gatto999 - La Perdita di Teddy" title="Primo Libro di Gatto999 - La Perdita di Teddy" width="95" height="159" /></a> &nbsp; </address></div><div align="center"><div align="center"><address><a href="http://ilmiolibro.kataweb.it/schedalibro.asp?id=795450" target="_blank" title="Il primo libro di Gatto999 - La Perdita di Teddy">il primo Libro per Bambini </a></address><address>&nbsp;&nbsp; di Gatto NineNineNine</address></div><h3 style="font-size: 9px"> </h3></div>		</div>
+				<div class="moduletable">
+			
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="http://www.gatto999.it/index.php?option=com_xmap&amp;sitemap=1" class="mainlevel" >Mappa Sito</a></td></tr>
+</table>		</div>
+		</div>
+			<div id="user3">		<div class="moduletable">
+			<div align="center"><a href="index.php?option=com_content&amp;task=view&amp;id=223&amp;Itemid=78" title="Contatore e Statistiche"><img src="images/contatore.png" alt="Contatore Gatto999" title="Contatore Gatto999" width="100" height="42" /></a> </div>		</div>
+				<div class="moduletable">
+			<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,1308391,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('http://s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?1308391&101" alt="contatore accessi" border="0"></a></noscript>
+<!-- Histats.com  END  -->		</div>
+				<div class="moduletable">
+			<div align="center"><address></address><address></address><address></address></div><img src="http://s03.flagcounter.com/count/7IRj/bg=FFFFFF/txt=000000/border=CCCCCC/columns=1/maxflags=1/viewers=3/labels=0/" border="0" alt=" " width="0" height="0" />		</div>
+				<div class="moduletable">
+			<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12793278-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>		</div>
+		</div>
+			<div id="user4">		<div class="moduletable">
+			<div align="right"><h3>  <a href="https://www.youtube.com/channel/UCDDpKBPBnZMo3QPw6w8zZew" target="_blank" title="YouTube Channel Trailers News 2.0"><img src="images/Gatto%20NineNineNine%20on%20Youtube.png" alt="YouTube Channel Trailers News 2.0" title="YouTube Channel Trailers News 2.0" width="30" height="30" /></a>   <a href="http://instagram.com/gatto999/" target="_blank" title="Gatto NineNineNine&#39;s Instagram"><img src="images/Gatto%20NineNineNine%20on%20Instagram.png" alt="Gatto NineNineNine on Instagram" title="Gatto NineNineNine on Instagram" width="30" height="30" /></a> <a href="https://twitter.com/Gatto999" target="_blank" title="Gatto NineNineNine on Twitter"><img src="images/Gatto%20NineNineNine%20on%20Twitter.png" alt="Gatto NineNineNine on Twitter" title="Gatto NineNineNine on Twitter" width="30" height="30" /></a>   <a href="https://www.flickr.com/photos/77545467@N00/" target="_blank" title="Gatto NineNineNine on Flickr"><img src="images/Gatto%20NineNineNine%20on%20flickr.png" alt="Gatto NineNineNine RSS" title="Gatto NineNineNine RSS" width="30" height="30" /></a>   <a href="https://giphy.com/channel/gatto999" target="_blank" title="Gatto NineNineNine on Giphy"><img src="images/Gatto%20NineNineNine%20on%20Giphy.png" alt="Gatto NineNineNine on Giphy" title="Gatto NineNineNine on Giphy" width="30" height="30" /></a>  <a href="https://www.pinterest.com/gatto999/" target="_blank" title="Gatto NineNineNine on Pinterest"><img src="images/Gatto%20NineNineNine%20on%20Pinterest.png" alt="Gatto NineNineNine on Pinterest" title="Gatto NineNineNine on Pinterest" width="30" height="30" /></a>   <a href="http://feeds2.feedburner.com/Gatto999RSS" target="_blank" title="Gatto NineNineNine RSS"><img src="images/Gatto%20NineNineNine%20RSS.png" alt="Gatto NineNineNine RSS" title="Gatto NineNineNine RSS" width="30" height="30" /></a>  </h3></div>  		</div>
+				<div class="moduletable">
+			<div align="right"><address>Navigando in Gatto999.it accetti la sua <a href="index.php?option=com_content&amp;task=view&amp;id=2630&amp;Itemid=78" target="_blank" title="Navigando nelle pagine di Gatto999.it accetti la sua Cookie Policy">Cookie Policy</a>.</address><address>&nbsp; &nbsp; <br /></address></div>   		</div>
+		</div>
+		</div><!-- end of bottomcontainer -->
+	</div><!-- end of bottom -->
+	<div id="footer">&nbsp;
+		<p>
+		<div align="center">
+	&copy; 2020 Cat</div>
+
+<div align="center">
+	Sito creato da DadBob e curato da Gatto NineNineNine ( Gatto999 )</div>    				</p>
+		<p style="text-align:center;">
+		<font size="1">Questo sito, eccetto dove diversamente specificato, è pubblicato sotto una <a rel="licenza" href="http://creativecommons.org/licenses/by-nc-sa/2.5/it/" target="_blank">Licenza Creative Commons</a>.
+		</font><font face="Verdana, Arial, Helvetica, sans-serif"><a rel="licenza" href="http://creativecommons.org/licenses/by-nc-sa/2.5/it/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="http://www.gatto999.it/images/By-NC-SA.png"/></a></font><font size="1"> Non è permesso un uso commerciale dei contenuti e delle immagini. </font></font>
+		</p>
+
+		<p>  
+		</p> 
+
+        </div>
+</div> <!-- end of wrapper -->
+</div> <!-- end of center div -->
+</body>
+</html><!-- 1601357461 -->
